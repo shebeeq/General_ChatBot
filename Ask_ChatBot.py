@@ -1,6 +1,7 @@
 import wolframalpha
 import webbrowser
 import pyttsx3
+import wikipedia
 import tkinter
 from tkinter import *
 
